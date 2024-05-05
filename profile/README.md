@@ -1,4 +1,4 @@
-# ELS Team
+# ELS Team ( Final Project CS BIU)
 
 Welcome to ELS Team!
 
